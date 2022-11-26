@@ -1,83 +1,123 @@
 #EXTM3U
-#EXTINF:-1 ,A SPORTS
+#EXTINF:-1 ,group-title="Sports",A SPORTS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1 ,GTV BD
+
+#EXTINF:-1 ,group-title="Sports",GTV BD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+
+#EXTINF:-1 ,group-title="Bangla",GTV BD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 , T-Sports
+
+#EXTINF:-1 ,group-title="Sports", T-Sports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
-#EXTINF:-1 ,ZEE BANGLA HD
+#EXTINF:-1 ,group-title="Bangla",ZEE BANGLA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-#EXTINF:-1 ,JIBS | SBS
+
+#EXTINF:-1 ,group-title="OTHERS",JIBS | SBS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/7.m3u8
-#EXTINF:-1 ,ZEE BANGLA CINEMA
+
+#EXTINF:-1 ,group-title="Bangla",ZEE BANGLA CINEMA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/10.m3u8
-#EXTINF:-1 ,AMAR BANGLA
+
+#EXTINF:-1 ,group-title="Bangla",AMAR BANGLA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/11.m3u8
-#EXTINF:-1 ,DISNEP CHANNEL
+
+#EXTINF:-1 ,group-title="OTHERS",DISNEP CHANNEL
 http://tv2.efiberbd.net:8080/live/mkaua/stream/13.m3u8
-#EXTINF:-1 ,15tv
+
+#EXTINF:-1 ,group-title="OTHERS",15tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
-#EXTINF:-1 ,ATN ISLAMIC TV
+
+#EXTINF:-1 ,group-title="Bangla",ATN ISLAMIC TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/16.m3u8
-#EXTINF:-1 ,DEENTV
+
+#EXTINF:-1 ,group-title="OTHERS",DEENTV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/17.m3u8
-#EXTINF:-1 ,ISLAMI TV
+
+#EXTINF:-1 ,group-title="OTHERS",ISLAMI TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/18.m3u8
-#EXTINF:-1 ,STARPLUS HD
+
+#EXTINF:-1 ,group-title="HINDI",STARPLUS HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
-#EXTINF:-1 ,SONY ENTERTAINMENT
+
+#EXTINF:-1 ,group-title="HINDI",SONY ENTERTAINMENT
 http://tv2.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-#EXTINF:-1 ,SONY MAX
+
+#EXTINF:-1 ,group-title="HINDI",SONY MAX
 http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
+
+#EXTINF:-1 ,group-title="HINDI",ZEE CINEMA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
-#EXTINF:-1 ,28tv
+
+#EXTINF:-1 ,group-title="OTHERS",28tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/28.m3u8
-#EXTINF:-1 ,KOREAN 1
+
+#EXTINF:-1 ,group-title="OTHERS",KOREAN 1
 http://tv2.efiberbd.net:8080/live/mkaua/stream/32.m3u8
-#EXTINF:-1 ,KOREAN 2
+
+#EXTINF:-1 ,group-title="OTHERS",KOREAN 2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/33.m3u8
-#EXTINF:-1 , 36TV
+
+#EXTINF:-1 , group-title="OTHERS",36TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 ,STAR SPORTS 2 HD
+
+#EXTINF:-1 ,group-title="Sports",STAR SPORTS 2 HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/37.m3u8
-#EXTINF:-1 ,SONY SPORTS 5
+
+#EXTINF:-1 ,group-title="Sports",SONY SPORTS 5
 http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
-#EXTINF:-1 ,SONY SPORTS 1
+
+#EXTINF:-1 ,group-title="Sports",SONY SPORTS 1
 http://tv2.efiberbd.net:8080/live/mkaua/stream/41.m3u8
-#EXTINF:-1 ,SPNY SPORTS 2
+
+#EXTINF:-1 ,group-title="Sports",SONY SPORTS 2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/42.m3u8
-#EXTINF:-1 ,MY TV HD
+
+#EXTINF:-1 ,group-title="Bangla",MY TV HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/47.m3u8
-#EXTINF:-1 ,EKUSHE TV
+
+#EXTINF:-1 ,group-title="Bangla",EKUSHE TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/48.m3u8
-#EXTINF:-1 ,ATN BANGLA
+
+#EXTINF:-1 ,group-title="Bangla",ATN BANGLA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/49.m3u8
-#EXTINF:-1 ,CHANNEL I HD
+
+#EXTINF:-1 ,group-title="Bangla",CHANNEL I HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/50.m3u8
-#EXTINF:-1 ,NEWS24 HD`
+
+#EXTINF:-1 ,group-title="Bangla",NEWS24 HD`
 http://tv2.efiberbd.net:8080/live/mkaua/stream/51.m3u8
-#EXTINF:-1 ,JAMUNA TV
+
+#EXTINF:-1 ,group-title="Bangla",JAMUNA TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/52.m3u8
-#EXTINF:-1 ,DBC NEWS
+
+#EXTINF:-1 ,group-title="Bangla",DBC NEWS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/53.m3u8
-#EXTINF:-1 ,EKATTOR TV
+
+#EXTINF:-1 ,group-title="Bangla",EKATTOR TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/54.m3u8
-#EXTINF:-1 ,SOMOY NEWS
+
+#EXTINF:-1 ,group-title="Bangla",SOMOY NEWS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/55.m3u8
-#EXTINF:-1 ,ATN BANGLA MUSIC
+
+#EXTINF:-1 ,group-title="Bangla",ATN BANGLA MUSIC
 http://tv2.efiberbd.net:8080/live/mkaua/stream/57.m3u8
-#EXTINF:-1 ,GAAN BANGLA
+
+#EXTINF:-1 ,group-title="Bangla",GAAN BANGLA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/58.m3u8
-#EXTINF:-1 ,SANGEET BANGLA
+
+#EXTINF:-1 ,group-title="Bangla",SANGEET BANGLA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
-#EXTINF:-1 ,9XM
+
+#EXTINF:-1 ,group-title="HINDI",9XM
 http://tv2.efiberbd.net:8080/live/mkaua/stream/65.m3u8
-#EXTINF:-1 ,9X JALWA
+
+#EXTINF:-1 ,group-title="HINDI",9X JALWA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
-#EXTINF:-1 ,BOISHAKHI TV PLUS
+
+#EXTINF:-1 ,group-title="Bangla",BOISHAKHI TV PLUS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/77.m3u8
-#EXTINF:-1 ,TSPORTS HD
+
+#EXTINF:-1 ,group-title="Sports",TSPORTS HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/78.m3u8
