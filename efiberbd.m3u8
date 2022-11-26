@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 ,1tv
+#EXTINF:-1 ,A SPORTS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1 ,2tv
+#EXTINF:-1 ,GTV BD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 ,3tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 ,4tv
+#EXTINF:-1 ,GTV BD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 ,5tv
+#EXTINF:-1 ,ZEE BANGLA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-#EXTINF:-1 ,7tv
+#EXTINF:-1 ,JIBS | SBS
 http://tv2.efiberbd.net:8080/live/mkaua/stream/7.m3u8
-#EXTINF:-1 ,10tv
+#EXTINF:-1 ,ZEE BANGLA CINEMA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/10.m3u8
-#EXTINF:-1 ,11tv
+#EXTINF:-1 ,AMAR BANGLA
 http://tv2.efiberbd.net:8080/live/mkaua/stream/11.m3u8
-#EXTINF:-1 ,13tv
+#EXTINF:-1 ,DISNEP CHANNEL
 http://tv2.efiberbd.net:8080/live/mkaua/stream/13.m3u8
 #EXTINF:-1 ,15tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
-#EXTINF:-1 ,16tv
+#EXTINF:-1 ,ATN ISLAMIC TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/16.m3u8
-#EXTINF:-1 ,17tv
+#EXTINF:-1 ,DEENTV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/17.m3u8
-#EXTINF:-1 ,18tv
+#EXTINF:-1 ,ISLAMI TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/18.m3u8
-#EXTINF:-1 ,20tv
+#EXTINF:-1 ,STARPLUS HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
-#EXTINF:-1 ,22tv
+#EXTINF:-1 ,SONY ENTERTAINMENT
 http://tv2.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-#EXTINF:-1 ,25tv
+#EXTINF:-1 ,SONY MAX
 http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
-#EXTINF:-1 ,26tv
+#EXTINF:-1 ,ZEE CINEMA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
 #EXTINF:-1 ,28tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/28.m3u8
