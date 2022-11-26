@@ -35,13 +35,13 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
 #EXTINF:-1 ,28tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/28.m3u8
-#EXTINF:-1 ,32tv
+#EXTINF:-1 ,KOREAN 1
 http://tv2.efiberbd.net:8080/live/mkaua/stream/32.m3u8
-#EXTINF:-1 ,33tv
+#EXTINF:-1 ,KOREAN 2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/33.m3u8
-#EXTINF:-1 ,36tv
+#EXTINF:-1 , 36TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 ,37tv
+#EXTINF:-1 ,STAR SPORTS 2 HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:-1 ,40tv
 http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
